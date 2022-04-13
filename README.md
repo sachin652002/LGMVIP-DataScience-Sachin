@@ -14,3 +14,12 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 Dataset Link : http://archive.ics.uci.edu/ml/machine-learning-databases/iris
 
 Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task1-datascience-activity-6919145016267300864-a2JL?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+TASK-2
+Stock Market Prediction And Forecasting Using Stacked LSTM
+
+Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task2-datascience-activity-6919858627193278464-eEcY?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+
