@@ -22,4 +22,13 @@ Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/
 
 Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task2-datascience-activity-6919858627193278464-eEcY?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+TASK-4
+Music Recommendation
+
+Music recommender systems can suggest songs to users based on their listening patterns.
+
+Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
+Linkedin post link :
+
 
