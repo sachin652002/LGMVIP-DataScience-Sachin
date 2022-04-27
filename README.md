@@ -84,6 +84,7 @@ Mathematical equation solver using character and symbol recognition using image 
 Dataset Link : https://www.kaggle.com/xainano/handwrittenmathsymbols
 
 Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task9-datascience-activity-6925076065363136513-gsWp?utm_source=linkedin_share&utm_medium=member_desktop_web
+                                 
                                  **More Advanced Level**
 TASK-10
 ML Facial recognition to detect mood and suggest songs accordingly
