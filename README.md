@@ -29,6 +29,59 @@ Music recommender systems can suggest songs to users based on their listening pa
 
 Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task4-datascience-activity-6925065875557400576-Tx7h?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+TASK-5
+Exploratory Data Analysis on Dataset - Terrorism
+
+As a security/defense analyst, try to find out the hot zone of terrorism.
+
+Dataset Link : https://bit.ly/2TK5Xn5
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task5-datascience-activity-6925069359363104769-llSn?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+TASK-6
+Prediction using Decision Tree Algorithm
+
+Creating the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+Dataset Link : https://bit.ly/3kXTdox
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task6-datascience-activity-6925070909783359488-O98o?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+                                    **Advanced Level**
+TASK-7
+Develop A Neural Network That Can Read Handwriting
+
+Begin my neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners.
+
+Dataset Link : https://en.wikipedia.org/wiki/MNIST_database
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task7-datascience-activity-6925072680790478848-2WDP?utm_source=linkedin_share&utm_medium=member_desktop_web
+TASK-8
+Next Word Prediction
+
+Using Tensorflow and Keras library train a RNN, to predict the next word.
+
+Dataset Link : https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task8-datascience-activity-6925074375595499520-PjUL?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+TASK-9
+Handwritten equation solver using CNN
+
+Mathematical equation solver using character and symbol recognition using image processing and CNN.
+
+Dataset Link : https://www.kaggle.com/xainano/handwrittenmathsymbols
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_connections-task9-datascience-activity-6925076065363136513-gsWp?utm_source=linkedin_share&utm_medium=member_desktop_web
+                                 **More Advanced Level**
+TASK-10
+ML Facial recognition to detect mood and suggest songs accordingly
+
+Dataset Link : https://www.kaggle.com/msambare/fer2013
+
+Linkedin post link : https://www.linkedin.com/posts/sachin-patil-0a55a222b_task10-datascience-internship-activity-6925085318064857088-oWMQ?utm_source=linkedin_share&utm_medium=member_desktop_web                            
+
 
 
